@@ -1,0 +1,1 @@
+# Azure-P2-licensing
